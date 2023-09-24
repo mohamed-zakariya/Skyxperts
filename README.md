@@ -1,6 +1,4 @@
-<div align="center">
-# Color Space Editing with OpenCV and PyQt6
-</div>
+# <p align="center">Color Space Editing with OpenCV and PyQt6</p>
 
 ## Description
 This project demonstrates a simple application that allows users to adjust color space parameters using sliders in a PyQt6 graphical user interface (GUI), while simultaneously displaying the live video stream from a webcam with the applied color space filtering.
