@@ -1,3 +1,4 @@
+
 # main.py
 
 import cv2
@@ -29,6 +30,11 @@ class MainWindow(QMainWindow):
         main_layout = QVBoxLayout()
         main_widget.setLayout(main_layout)
         self.setCentralWidget(main_widget)
+
+        helloMsg = QLabel("<p style='margin:0px 10px 0px 0px; color: #007acc; font-size: large'> EDIT COLOR!!  </p> <br>", parent=main_widget)
+        helloMsg.move(150,0)
+        # main_layout.addLayout(helloMsg)
+
 
         slider_layout = QHBoxLayout()
 
