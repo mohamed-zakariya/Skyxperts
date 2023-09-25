@@ -33,5 +33,3 @@ This project demonstrates a simple application that allows users to adjust color
 <img src="https://github.com/mohamed-zakariya/Skyxperts/blob/mohamed-zakariya/Main/task%202/pics/Untitled.png">
 <hr>
 
-## License
-This project is licensed under the MIT License. Feel free to modify and use it according to your needs.
